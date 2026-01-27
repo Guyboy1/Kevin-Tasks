@@ -1,7 +1,7 @@
 # Kevin-Tasks
 Kevin Tasks is a program that uses ChatGPT to provide an affordable self opperating computer for personal use.
-## Download
-### placeholder.com
+
+# [DOWNLOAD HERE](https://www.icloud.com/shortcuts/219d890d87ab4e0fbf86cdb617f6daf5)
 
 (please use the installer. You can just straight up run the pythons script, but that wont install everything)
 
