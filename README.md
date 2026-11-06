@@ -10,6 +10,7 @@ If you guys wish to see the first development of this, then here are the links:
 https://www.icloud.com/shortcuts/1850d93b80b9482895534ea31f6fad04
 https://www.icloud.com/shortcuts/361f380f459f4eb7b9c35b9f3ee7e1d6
 
+(note: these versions do not work anymore)
 
 
 ## Requirments: 
