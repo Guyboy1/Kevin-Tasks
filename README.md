@@ -1,8 +1,12 @@
 # Kevin-Tasks
-Kevin Tasks is a program that uses ChatGPT to provide an affordable self opperating computer for personal use.
+Kevin Tasks is a program that uses Artificial Intelligence to provide an affordable self opperating computer for personal use.
 
 # [DOWNLOAD HERE](https://www.icloud.com/shortcuts/219d890d87ab4e0fbf86cdb617f6daf5)
 #### (please use the installer. You can just straight up run the python script, but that wont install everything!)
+
+If you guys wish to see the first development of this, then here are the links:
+https://www.icloud.com/shortcuts/1850d93b80b9482895534ea31f6fad04
+https://www.icloud.com/shortcuts/361f380f459f4eb7b9c35b9f3ee7e1d6
 
 
 
