@@ -1,7 +1,7 @@
 # Kevin-Tasks
 Kevin Tasks is a program that uses Artificial Intelligence to provide an affordable self opperating computer for personal use.
 
-### This program was made a few years back by when agentic harnesses for computer use did not exist yet. This project was my attempt at it. It is not fully polished, as official and/or better agentic harnesses got released. I still have this project around just as a piece of history. 
+### This program was started a while back by when agentic harnesses for computer use did not exist yet. This project was my attempt at it. It is not fully polished, as official and/or better agentic harnesses got released, so I uploaded it to GitHub and stopped development of the project. I still have this project around just as a piece of history. 
 
 # [DOWNLOAD HERE](https://www.icloud.com/shortcuts/219d890d87ab4e0fbf86cdb617f6daf5)
 #### (please use the installer. You can just straight up run the python script, but that wont install everything!)
